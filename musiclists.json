@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "604f316d68bfdb23d478069d"
+  },
+  "song": "倒数",
+  "singer": "邓紫棋",
+  "duration": 278,
+  "imagesrc": "../image/daoshu.png",
+  "audiosrc": "../audio/daoshu.mp3",
+  "__v": 0,
+  "album": "另一个童话"
+},{
+  "_id": {
+    "$oid": "6052c2c7d0d0970104d77836"
+  },
+  "song": "Alone",
+  "singer": "Alan Walker",
+  "duration": 161,
+  "imagesrc": "../image/1616036548163.jpeg",
+  "audiosrc": "../audio/1616036548163.mp3",
+  "album": "IPAUTA-Alone",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60530daf4c91a6285cb49ce4"
+  },
+  "imagesrc": "../image/duoyuandouyaozaiyiqi.jpg",
+  "song": "多远都要在一起",
+  "album": "新的心跳",
+  "singer": "邓紫棋",
+  "duration": 250,
+  "audiosrc": "../audio/duoyuandouyaozaiyiqi.mp3"
+},{
+  "_id": {
+    "$oid": "605374729f680329c8348aa6"
+  },
+  "song": "我们的歌",
+  "singer": "王力宏",
+  "duration": 247,
+  "imagesrc": "../image/1616082030049.jpg",
+  "audiosrc": "../audio/1616082030049.mp3",
+  "album": "改变自己",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6053784e9f680329c8348aa7"
+  },
+  "song": "李白",
+  "singer": "李荣浩",
+  "duration": 273,
+  "imagesrc": "../image/1616083016108.jpg",
+  "audiosrc": "../audio/1616083016108.mp3",
+  "album": "模特",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605df22298058c43a8b9bac2"
+  },
+  "song": "老街",
+  "singer": "李荣浩",
+  "duration": 318,
+  "imagesrc": "../image/1616769563008.jpg",
+  "audiosrc": "../audio/1616769563008.mp3",
+  "album": "小黄",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605e92bf78fa083ea09deb79"
+  },
+  "song": "手心的蔷薇",
+  "singer": "林俊杰&邓紫棋",
+  "duration": 280,
+  "imagesrc": "../image/1616810683511.jpg",
+  "audiosrc": "../audio/1616810683511.mp3",
+  "album": "新地球",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605e956078fa083ea09deb7a"
+  },
+  "song": "永不失联的爱",
+  "singer": "单依纯",
+  "duration": 272,
+  "imagesrc": "../image/1616811355840.jpeg",
+  "audiosrc": "../audio/1616811355840.mp3",
+  "album": "永不失联的爱",
+  "__v": 0
+}]

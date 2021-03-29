@@ -66,7 +66,7 @@ function connectdo(){
   })//开启服务器
 }
 function watchdo(){
-  watch(folder.src+'html/*',htmldo)
+  watch(folder.src+'index.html',htmldo)
   watch(folder.src+'css/*',cssdo)
   watch(folder.src+'js/*',jsdo)
   watch(folder.src+'image/*',imagedo)
